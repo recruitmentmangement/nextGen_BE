@@ -2,7 +2,7 @@ const fs = require("fs");
 const jsonServer = require("json-server");
 const cors = require("cors");
 const path = require("path");
-const { mockData } = require("./clients/next-gen/mock-data");
+const { mockData } = require("./src/clients/next-gen/mock-data");
 
 const server = jsonServer.create();
 const middlewares = jsonServer.defaults();
