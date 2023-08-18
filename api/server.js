@@ -10,8 +10,18 @@ server.use(jsonServer.rewriter({
     '/api/*': '/$1',
     '/blog/:resource/:id/show': '/:resource/:id'
 }))
+
+server.use('*', (req, res, next) => {
+  if (req.method === 'POST') {
+    // Modify the request body to remove the 'body' key
+    const modifiedBody = { ...req.body.body, ...req.body };
+    delete modifiedBody.body;
+    req.body = modifiedBody;
+  }
+  next();
+});
 server.use(router)
-server.listen(3000, () => {
+server.listen(4000, () => {
     console.log('JSON Server is running')
 })
 
