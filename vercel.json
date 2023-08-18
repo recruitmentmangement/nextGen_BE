@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "name": "nextGen-Be",
+    "builds": [
+       { "src": "server.js", "use": "@vercel/node" }
+    ],
+    "routes": [
+       { "src": "/(.*)", "dest": "./sever.js" }
+    ]
+  }
