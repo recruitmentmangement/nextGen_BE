@@ -22,8 +22,8 @@ server.options("*", cors());
 
 //--------------mockedData----------------
 
-const dbData = JSON.stringify(mockData);
-fs.writeFileSync(dbFilePath, dbData);
+// const dbData = JSON.stringify(mockData);
+// fs.writeFileSync(dbFilePath, dbData);
 
 //---------add Custom Routes--------------
 
