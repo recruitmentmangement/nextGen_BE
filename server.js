@@ -45,7 +45,6 @@ server.use(router);
 server.use('*', (req, res, next) => {
   res.send({message:'server is up and running ;D'});
 });
-server.use(router);
 
 const port = process.env.PORT||4000;
 
