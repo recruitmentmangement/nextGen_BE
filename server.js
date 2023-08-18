@@ -51,3 +51,5 @@ const port = process.env.PORT||4000;
 server.listen(port, () => {
   console.log("JSON Server is running on http://localhost:" + port);
 });
+
+module.exports = server;
