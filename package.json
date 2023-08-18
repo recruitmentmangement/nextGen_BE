@@ -1,19 +1,12 @@
 {
-  "name": "json-server",
+  "name": "next-gen-be",
   "version": "1.0.0",
-  "description": "fake server for website",
-  "main": "server.js",
+  "description": "Deploy JSON Server to Vercel",
+  "main": "api/server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node api/server.js"
   },
-  "engines": {
-    "node": "16.x"
-  },
-  "author": "YI",
-  "license": "ISC",
-  "devDependencies": {
-    "json-server": "^0.17.0",
-    "nodemon": "^2.0.15"
+  "dependencies": {
+    "json-server": "^0.17.0"
   }
 }
