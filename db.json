@@ -163,7 +163,7 @@
       "minRange": "100",
       "maxRange": "100",
       "salaryFrequency": "yearly",
-      "amount_type": "fixed",
+      "amountType": "fixed",
       "roleId": "j1",
       "rank": "junior"
     },
@@ -172,7 +172,7 @@
       "minRange": "500",
       "maxRange": "700",
       "salaryFrequency": "yearly",
-      "amount_type": "range",
+      "amountType": "range",
       "roleId": "j1",
       "rank": "senior"
     },
@@ -181,7 +181,7 @@
       "minRange": "100",
       "maxRange": "100",
       "salaryFrequency": "yearly",
-      "amount_type": "fixed",
+      "amountType": "fixed",
       "roleId": "j2",
       "rank": "senior"
     },
@@ -190,7 +190,7 @@
       "minRange": "700",
       "maxRange": "900",
       "salaryFrequency": "yearly",
-      "amount_type": "range",
+      "amountType": "range",
       "roleId": "j3",
       "rank": "senior"
     }
