@@ -105,56 +105,23 @@
     {
       "id": "j1",
       "title": "Developer",
-      "description": "sample description 1 new",
-      "ranks": [
-        "senior",
-        "junior"
-      ],
-      "editor_ids": [
-        "1",
-        "2",
-        "3"
-      ]
+      "description": "sample description 1",
+      "ranks": ["senior", "junior"],
+      "editor_ids": ["1", "2", "3"]
     },
     {
       "id": "j2",
       "title": "Hr",
       "description": "sample description 2",
-      "ranks": [
-        "senior",
-        "junior"
-      ],
-      "editor_ids": [
-        "1",
-        "2",
-        "3"
-      ]
+      "ranks": ["senior", "junior"],
+      "editor_ids": ["1", "2", "3"]
     },
     {
       "id": "j3",
       "title": "Marketer",
       "description": "sample description 3",
-      "ranks": [
-        "senior",
-        "junior"
-      ],
-      "editor_ids": [
-        "1",
-        "2",
-        "3"
-      ]
-    },
-    {
-      "title": "xcz",
-      "description": "zx ew",
-      "ranks": [
-        "123"
-      ],
-      "editor_ids": [
-        "4",
-        "5"
-      ],
-      "id": "LufiGN0"
+      "ranks": ["senior", "junior"],
+      "editor_ids": ["1", "2", "3"]
     }
   ],
   "salary_ranges": [
