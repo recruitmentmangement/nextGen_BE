@@ -106,54 +106,28 @@
       "id": "j1",
       "title": "Developer",
       "description": "sample description 1 new",
-      "ranks": [
-        "senior",
-        "junior"
-      ],
-      "editorIds": [
-        "1",
-        "2",
-        "3"
-      ]
+      "ranks": ["senior", "junior", "freshie"],
+      "editorIds": ["1", "2", "3"]
     },
     {
       "id": "j2",
       "title": "Hr",
       "description": "sample description 2",
-      "ranks": [
-        "senior",
-        "junior"
-      ],
-      "editorIds": [
-        "1",
-        "2",
-        "3"
-      ]
+      "ranks": ["senior", "junior"],
+      "editorIds": ["1", "2", "3"]
     },
     {
       "id": "j3",
       "title": "Marketer",
       "description": "sample description 3",
-      "ranks": [
-        "senior",
-        "junior"
-      ],
-      "editorIds": [
-        "1",
-        "2",
-        "3"
-      ]
+      "ranks": ["senior", "junior"],
+      "editorIds": ["1", "2", "3"]
     },
     {
       "title": "xcz",
       "description": "zx ew",
-      "ranks": [
-        "123"
-      ],
-      "editorIds": [
-        "4",
-        "5"
-      ],
+      "ranks": ["123"],
+      "editorIds": ["4", "5"],
       "id": "LufiGN0"
     }
   ],
@@ -162,8 +136,8 @@
       "id": "s1",
       "minRange": "100",
       "maxRange": "100",
-      "salaryFrequency": "yearly",
-      "amountType": "fixed",
+      "salaryFrequency": "monthly",
+      "amountType": "range",
       "roleId": "j1",
       "rank": "junior"
     },
@@ -171,7 +145,7 @@
       "id": "s2",
       "minRange": "500",
       "maxRange": "700",
-      "salaryFrequency": "yearly",
+      "salaryFrequency": "monthly",
       "amountType": "range",
       "roleId": "j1",
       "rank": "senior"
@@ -193,6 +167,48 @@
       "amountType": "range",
       "roleId": "j3",
       "rank": "senior"
+    },
+    {
+      "minRange": "100",
+      "maxRange": "1200",
+      "amountType": "range",
+      "salaryFrequency": "monthly",
+      "rank": "freshie",
+      "id": "6WS8eed"
+    },
+    {
+      "minRange": "120",
+      "maxRange": "230",
+      "amountType": "range",
+      "salaryFrequency": "monthly",
+      "rank": "freshie",
+      "id": "eV_GGZK"
+    },
+    {
+      "minRange": "1100",
+      "maxRange": "1100",
+      "amountType": "fixed",
+      "salaryFrequency": "yearly",
+      "rank": "freshie",
+      "roleId": "j1",
+      "id": "F6lFqsA"
+    }
+  ],
+  "teams": [
+    {
+      "name": "Team 1",
+      "description": "description T1",
+      "memeberIds": ["1", "2", "3", "4"]
+    },
+    {
+      "name": "Team 2",
+      "description": "description T2",
+      "memeberIds": ["5", "6", "7"]
+    },
+    {
+      "name": "Team 3",
+      "description": "description T3",
+      "memeberIds": ["9", "10"]
     }
   ]
 }
