@@ -196,16 +196,19 @@
   ],
   "teams": [
     {
+      "id":"t1",
       "name": "Team 1",
       "description": "description T1",
       "memeberIds": ["1", "2", "3", "4"]
     },
     {
+      "id":"t2",
       "name": "Team 2",
       "description": "description T2",
       "memeberIds": ["5", "6", "7"]
     },
     {
+      "id":"t3",
       "name": "Team 3",
       "description": "description T3",
       "memeberIds": ["9", "10"]
