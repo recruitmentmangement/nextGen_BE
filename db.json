@@ -223,5 +223,17 @@
       "description": "description T3",
       "memberIds": ["9", "10"]
     }
+  ],
+  "timeTracking":[
+    {
+      "id":"149023304",
+      "employeeId": "1363742",
+      "employeeName": "test name",
+      "startAt": "2023-08-08",
+      "endAt": "2023-08-31",
+      "estimated": "0.0",
+      "worked": "2245.0",
+      "balance": "2245.0"
+    }
   ]
 }
