@@ -4,7 +4,7 @@
       "id": "1",
       "firstName": "Banky",
       "lastName": "Villiers",
-      "teamId":"t1",
+      "teamId": "t1",
       "email": "bvilliers0@nhs.uk",
       "roleId": "j1",
       "hireDate": "5/10/2022",
@@ -16,7 +16,7 @@
       "firstName": "Giusto",
       "lastName": "Quixley",
       "email": "gquixley1@hc360.com",
-      "teamId":"t1",
+      "teamId": "t1",
       "roleId": "j1",
       "hireDate": "10/16/2017",
       "salaryAmount": 71467.17,
@@ -26,7 +26,7 @@
       "id": "3",
       "firstName": "Rakel",
       "lastName": "Castellani",
-      "teamId":"t1",
+      "teamId": "t1",
       "email": "rcastellani2@china.com.cn",
       "roleId": "Accountant I",
       "hireDate": "11/29/2015",
@@ -37,7 +37,7 @@
       "id": "4",
       "firstName": "Ranique",
       "lastName": "Borleace",
-      "teamId":"t2",
+      "teamId": "t2",
       "email": "rborleace3@quantcast.com",
       "roleId": "j1",
       "hireDate": "10/18/2020",
@@ -48,7 +48,7 @@
       "id": "5",
       "firstName": "Alina",
       "lastName": "Bengough",
-      "teamId":"t2",
+      "teamId": "t2",
       "email": "abengough4@zimbio.com",
       "roleId": "Mechanical Systems Engineer",
       "hireDate": "9/20/2022",
@@ -58,7 +58,7 @@
     {
       "id": "6",
       "firstName": "Feodor",
-      "teamId":"t2",
+      "teamId": "t2",
       "lastName": "Gareisr",
       "email": "fgareisr5@odnoklassniki.ru",
       "roleId": "Assistant Media Planner",
@@ -70,7 +70,7 @@
       "id": "7",
       "firstName": "Mayor",
       "lastName": "Wingrove",
-      "teamId":"t3",
+      "teamId": "t3",
       "email": "mwingrove6@bizjournals.com",
       "roleId": "Information Systems Manager",
       "hireDate": "2/16/2013",
@@ -81,7 +81,7 @@
       "id": "8",
       "firstName": "Chantalle",
       "lastName": "Cussen",
-      "teamId":"t1",
+      "teamId": "t1",
       "email": "ccussen7@nydailynews.com",
       "roleId": "Cost Accountant",
       "hireDate": "10/1/2017",
@@ -93,7 +93,7 @@
       "firstName": "Ariela",
       "lastName": "Heims",
       "email": "aheims8@is.gd",
-      "teamId":"t3",
+      "teamId": "t3",
       "roleId": "Chemical Engineer",
       "hireDate": "2/25/2019",
       "salaryAmount": 57230.66,
@@ -103,7 +103,7 @@
       "id": "10",
       "firstName": "Robena",
       "lastName": "Kubatsch",
-      "teamId":"t2",
+      "teamId": "t2",
       "email": "rkubatsch9@buzzfeed.com",
       "roleId": "Account Executive",
       "hireDate": "5/11/2015",
@@ -116,28 +116,55 @@
       "id": "j1",
       "title": "Developer",
       "description": "sample description 1 new",
-      "ranks": ["senior", "junior", "freshie"],
-      "editorIds": ["1", "2", "3"]
+      "ranks": [
+        "senior",
+        "junior",
+        "freshie"
+      ],
+      "editorIds": [
+        "1",
+        "2",
+        "3"
+      ]
     },
     {
       "id": "j2",
       "title": "Hr",
       "description": "sample description 2",
-      "ranks": ["senior", "junior"],
-      "editorIds": ["1", "2", "3"]
+      "ranks": [
+        "senior",
+        "junior"
+      ],
+      "editorIds": [
+        "1",
+        "2",
+        "3"
+      ]
     },
     {
       "id": "j3",
       "title": "Marketer",
       "description": "sample description 3",
-      "ranks": ["senior", "junior"],
-      "editorIds": ["1", "2", "3"]
+      "ranks": [
+        "senior",
+        "junior"
+      ],
+      "editorIds": [
+        "1",
+        "2",
+        "3"
+      ]
     },
     {
       "title": "xcz",
       "description": "zx ew",
-      "ranks": ["123"],
-      "editorIds": ["4", "5"],
+      "ranks": [
+        "123"
+      ],
+      "editorIds": [
+        "4",
+        "5"
+      ],
       "id": "LufiGN0"
     }
   ],
@@ -206,34 +233,50 @@
   ],
   "teams": [
     {
-      "id":"t1",
+      "id": "t1",
       "title": "Team 1",
-      "description": "description T1",
-      "memberIds": ["1", "2", "3", "4"]
+      "description": "description T1 new",
+      "memberIds": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "leaderId":"1"
     },
     {
-      "id":"t2",
+      "id": "t2",
       "title": "Team 2",
       "description": "description T2",
-      "memberIds": ["5", "6", "7"]
+      "memberIds": [
+        "5",
+        "6",
+        "7"
+      ],
+      "leaderId":"6"
     },
     {
-      "id":"t3",
+      "id": "t3",
       "title": "Team 3",
       "description": "description T3",
-      "memberIds": ["9", "10"]
+      "memberIds": [
+        "9",
+        "10"
+      ],
+      "leaderId":"9"
     }
   ],
-  "timeTracking":[
+  "timeTracking": [
     {
-      "id":"149023304",
-      "employeeId": "1363742",
-      "employeeName": "test name",
-      "startAt": "2023-08-08",
-      "endAt": "2023-08-31",
-      "estimated": "0.0",
-      "worked": "2245.0",
-      "balance": "2245.0"
-    }
+    "id":"149023304",
+    "employeeId": "1363742",
+    "employeeName": "test name",
+    "startAt": "2023-08-23T07:13:20.498Z",
+    "endAt": "2023-08-23T010:26:29.498Z",
+    "estimated": "0.0",
+    "worked": "2245.0",
+    "balance": "2245.0",
+    "clockedIn": false
+  }
   ]
 }
