@@ -235,14 +235,14 @@
     {
       "id": "t1",
       "title": "Team 1",
-      "description": "description T1 new",
+      "description": "description T1",
       "memberIds": [
         "1",
         "2",
         "3",
         "4"
       ],
-      "leaderId":"1"
+      "leaderId": "1"
     },
     {
       "id": "t2",
@@ -253,7 +253,7 @@
         "6",
         "7"
       ],
-      "leaderId":"6"
+      "leaderId": "6"
     },
     {
       "id": "t3",
@@ -263,11 +263,10 @@
         "9",
         "10"
       ],
-      "leaderId":"9"
+      "leaderId": "9"
     }
   ],
-  "timeTracking": [
-    {
+  "timeTracking": [{
     "id":"149023304",
     "employeeId": "1363742",
     "employeeName": "test name",
@@ -277,6 +276,5 @@
     "worked": "2245.0",
     "balance": "2245.0",
     "clockedIn": "false"
-  }
-  ]
+  }]
 }
