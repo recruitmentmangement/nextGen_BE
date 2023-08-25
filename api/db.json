@@ -1,0 +1,307 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "firstName": "Banky",
+      "lastName": "Villiers",
+      "teamId": "t1",
+      "email": "bvilliers0@nhs.uk",
+      "roleId": "j1",
+      "hireDate": "5/10/2022",
+      "salaryAmount": 145674.19,
+      "roleRank": "senior"
+    },
+    {
+      "id": "2",
+      "firstName": "Giusto",
+      "lastName": "Quixley",
+      "email": "gquixley1@hc360.com",
+      "teamId": "t1",
+      "roleId": "j1",
+      "hireDate": "10/16/2017",
+      "salaryAmount": 71467.17,
+      "roleRank": "junior"
+    },
+    {
+      "id": "3",
+      "firstName": "Rakel",
+      "lastName": "Castellani",
+      "teamId": "t1",
+      "email": "rcastellani2@china.com.cn",
+      "roleId": "Accountant I",
+      "hireDate": "11/29/2015",
+      "salaryAmount": 44995.71,
+      "roleRank": "internee"
+    },
+    {
+      "id": "4",
+      "firstName": "Ranique",
+      "lastName": "Borleace",
+      "teamId": "t2",
+      "email": "rborleace3@quantcast.com",
+      "roleId": "j1",
+      "hireDate": "10/18/2020",
+      "salaryAmount": 141491.29,
+      "roleRank": "freshie"
+    },
+    {
+      "id": "5",
+      "firstName": "Alina",
+      "lastName": "Bengough",
+      "teamId": "t2",
+      "email": "abengough4@zimbio.com",
+      "roleId": "Mechanical Systems Engineer",
+      "hireDate": "9/20/2022",
+      "salaryAmount": 97881.21,
+      "roleRank": "graduate"
+    },
+    {
+      "id": "6",
+      "firstName": "Feodor",
+      "teamId": "t2",
+      "lastName": "Gareisr",
+      "email": "fgareisr5@odnoklassniki.ru",
+      "roleId": "Assistant Media Planner",
+      "hireDate": "8/18/2020",
+      "salaryAmount": 120213.26,
+      "roleRank": "senior"
+    },
+    {
+      "id": "7",
+      "firstName": "Mayor",
+      "lastName": "Wingrove",
+      "teamId": "t3",
+      "email": "mwingrove6@bizjournals.com",
+      "roleId": "Information Systems Manager",
+      "hireDate": "2/16/2013",
+      "salaryAmount": 70070.9,
+      "roleRank": "leader"
+    },
+    {
+      "id": "8",
+      "firstName": "Chantalle",
+      "lastName": "Cussen",
+      "teamId": "t1",
+      "email": "ccussen7@nydailynews.com",
+      "roleId": "Cost Accountant",
+      "hireDate": "10/1/2017",
+      "salaryAmount": 34855.2,
+      "roleRank": "senior"
+    },
+    {
+      "id": "9",
+      "firstName": "Ariela",
+      "lastName": "Heims",
+      "email": "aheims8@is.gd",
+      "teamId": "t3",
+      "roleId": "Chemical Engineer",
+      "hireDate": "2/25/2019",
+      "salaryAmount": 57230.66,
+      "roleRank": "junior"
+    },
+    {
+      "id": "10",
+      "firstName": "Robena",
+      "lastName": "Kubatsch",
+      "teamId": "t2",
+      "email": "rkubatsch9@buzzfeed.com",
+      "roleId": "Account Executive",
+      "hireDate": "5/11/2015",
+      "salaryAmount": 35855.78,
+      "roleRank": "junior"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "j1",
+      "title": "Developer",
+      "description": "sample description 1 new",
+      "ranks": [
+        "senior",
+        "junior",
+        "freshie"
+      ],
+      "editorIds": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "id": "j2",
+      "title": "Hr",
+      "description": "sample description 2",
+      "ranks": [
+        "senior",
+        "junior"
+      ],
+      "editorIds": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "id": "j3",
+      "title": "Marketer",
+      "description": "sample description 3",
+      "ranks": [
+        "senior",
+        "junior"
+      ],
+      "editorIds": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "title": "xcz",
+      "description": "zx ew",
+      "ranks": [
+        "123"
+      ],
+      "editorIds": [
+        "4",
+        "5"
+      ],
+      "id": "LufiGN0"
+    }
+  ],
+  "salary_ranges": [
+    {
+      "id": "s1",
+      "minRange": "100",
+      "maxRange": "100",
+      "salaryFrequency": "monthly",
+      "amountType": "range",
+      "roleId": "j1",
+      "rank": "junior"
+    },
+    {
+      "id": "s2",
+      "minRange": "500",
+      "maxRange": "700",
+      "salaryFrequency": "monthly",
+      "amountType": "range",
+      "roleId": "j1",
+      "rank": "senior"
+    },
+    {
+      "id": "s3",
+      "minRange": "100",
+      "maxRange": "100",
+      "salaryFrequency": "yearly",
+      "amountType": "fixed",
+      "roleId": "j2",
+      "rank": "senior"
+    },
+    {
+      "id": "s4",
+      "minRange": "700",
+      "maxRange": "900",
+      "salaryFrequency": "yearly",
+      "amountType": "range",
+      "roleId": "j3",
+      "rank": "senior"
+    },
+    {
+      "minRange": "100",
+      "maxRange": "1200",
+      "amountType": "range",
+      "salaryFrequency": "monthly",
+      "rank": "freshie",
+      "id": "6WS8eed"
+    },
+    {
+      "minRange": "120",
+      "maxRange": "230",
+      "amountType": "range",
+      "salaryFrequency": "monthly",
+      "rank": "freshie",
+      "id": "eV_GGZK"
+    },
+    {
+      "minRange": "1100",
+      "maxRange": "1100",
+      "amountType": "fixed",
+      "salaryFrequency": "yearly",
+      "rank": "freshie",
+      "roleId": "j1",
+      "id": "F6lFqsA"
+    }
+  ],
+  "teams": [
+    {
+      "id": "t1",
+      "title": "Team 1",
+      "description": "description T1",
+      "memberIds": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "leaderId": "1"
+    },
+    {
+      "id": "t2",
+      "title": "Team 2",
+      "description": "description T2",
+      "memberIds": [
+        "5",
+        "6",
+        "7"
+      ],
+      "leaderId": "6"
+    },
+    {
+      "id": "t3",
+      "title": "Team 3",
+      "description": "description T3",
+      "memberIds": [
+        "9",
+        "10"
+      ],
+      "leaderId": "9"
+    }
+  ],
+  "timeTracking": [],
+  "documents": [
+    {
+      "id": "d1",
+      "employeeId": "1",
+      "title": "contract 1",
+      "url": "sample Url c1",
+      "type": "contract"
+    },
+    {
+      "id": "d2",
+      "employeeId": "1",
+      "title": "ID Documnet 2",
+      "url": "sample Url idd2",
+      "type": "idDocument"
+    },
+    {
+      "id": "d3",
+      "employeeId": "1",
+      "title": "sickLeave 2",
+      "url": "sample Url sl2",
+      "type": "sickLeave"
+    },
+    {
+      "id": "d4",
+      "employeeId": "1",
+      "title": "paySlip 2",
+      "url": "sample Url pS2",
+      "type": "paySlip"
+    },
+    {
+      "id": "d5",
+      "employeeId": "1",
+      "title": "other 2",
+      "url": "sample Url o2",
+      "type": "other"
+    }
+  ]
+}

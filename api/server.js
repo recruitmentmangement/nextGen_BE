@@ -1,11 +1,25 @@
 // See https://github.com/typicode/json-server#module
 const jsonServer = require('json-server')
-const server = jsonServer.create()
-const router = jsonServer.router('db.json')
-const middlewares = jsonServer.defaults()
+const recruitmentRoutes = require('./clients/recruitments')
+const fileUpload = require("express-fileupload");
+const path = require("path");
 
+const server = jsonServer.create()
+
+// const router = jsonServer.router('db.json')
+const dbFilePath = path.join(__dirname, "db.json");
+const middlewares = jsonServer.defaults()
+server.use(
+    fileUpload()
+  );
 server.use(middlewares)
+server.use(jsonServer.bodyParser);
+recruitmentRoutes.addCustomRoutes(server);
+
+const router = jsonServer.router(dbFilePath); // give router path of db.json file
+
 server.use(router)
+
 server.listen(4000, () => {
     console.log('JSON Server is running')
 })
