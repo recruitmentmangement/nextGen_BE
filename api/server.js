@@ -6,8 +6,7 @@ const path = require("path");
 
 const server = jsonServer.create()
 
-// const router = jsonServer.router('db.json')
-const dbFilePath = path.join(__dirname, "db.json");
+const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
 server.use(
     fileUpload()
@@ -15,8 +14,6 @@ server.use(
 server.use(middlewares)
 server.use(jsonServer.bodyParser);
 recruitmentRoutes.addCustomRoutes(server);
-
-const router = jsonServer.router(dbFilePath); // give router path of db.json file
 
 server.use(router)
 
