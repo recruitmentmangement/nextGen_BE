@@ -276,5 +276,42 @@
     "worked": "2245.0",
     "balance": "2245.0",
     "clockedIn": "false"
-  }]
+  }],
+  "documents": [
+    {
+      "id": "d1",
+      "employeeId": "1",
+      "title": "contract 1",
+      "url": "sample Url c1",
+      "type": "contract"
+    },
+    {
+      "id": "d2",
+      "employeeId": "1",
+      "title": "ID Documnet 2",
+      "url": "sample Url idd2",
+      "type": "idDocument"
+    },
+    {
+      "id": "d3",
+      "employeeId": "1",
+      "title": "sickLeave 2",
+      "url": "sample Url sl2",
+      "type": "sickLeave"
+    },
+    {
+      "id": "d4",
+      "employeeId": "1",
+      "title": "paySlip 2",
+      "url": "sample Url pS2",
+      "type": "paySlip"
+    },
+    {
+      "id": "d5",
+      "employeeId": "1",
+      "title": "other 2",
+      "url": "sample Url o2",
+      "type": "other"
+    }
+  ]
 }
