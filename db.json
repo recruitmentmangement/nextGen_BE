@@ -166,6 +166,14 @@
         "5"
       ],
       "id": "LufiGN0"
+    },
+    {
+      "title": "",
+      "description": "",
+      "ranks": [],
+      "editorIds": [],
+      "dueDate": "2023-08-23T19:00:00.000Z",
+      "id": "Tb7GWqz"
     }
   ],
   "salary_ranges": [
@@ -266,17 +274,7 @@
       "leaderId": "9"
     }
   ],
-  "timeTracking": [{
-    "id":"149023304",
-    "employeeId": "1363742",
-    "employeeName": "test name",
-    "startAt": "2023-08-23T07:13:20.498Z",
-    "endAt": "2023-08-23T010:26:29.498Z",
-    "estimated": "0.0",
-    "worked": "2245.0",
-    "balance": "2245.0",
-    "clockedIn": "false"
-  }],
+  "timeTracking": [],
   "documents": [
     {
       "id": "d1",
@@ -312,6 +310,40 @@
       "title": "other 2",
       "url": "sample Url o2",
       "type": "other"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "ta1",
+      "employeeId": "1",
+      "status":"incomplete",
+      "title": "task1",
+      "description": "Sample Description 1",
+      "dueDate": "2023-08-31T19:00:00.000Z"
+    },
+    {
+      "id": "ta2",
+      "employeeId": "1",
+      "title": "task2",
+      "status":"complete",
+      "description": "Sample Description 2",
+      "dueDate": "2023-08-20T19:00:00.000Z"
+    },
+    {
+      "id": "ta3",
+      "employeeId": "2",
+      "title": "task3",
+      "status":"incomplete",
+      "description": "Sample Description 3",
+      "dueDate": "2023-08-29T19:00:00.000Z"
+    },
+    {
+      "id": "ta4",
+      "employeeId": "2",
+      "status":"incomplete",
+      "title": "task3",
+      "description": "Sample Description 4",
+      "dueDate": "2023-08-29T19:00:00.000Z"
     }
   ]
 }
