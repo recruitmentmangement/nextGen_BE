@@ -9,7 +9,15 @@
       "roleId": "j1",
       "hireDate": "5/10/2022",
       "salaryAmount": 145674.19,
-      "roleRank": "senior"
+      "salaryFrequency": "yearly",
+      "roleRank": "senior",
+      "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
+      "contractStartDate": "5/10/2022",
+      "contractEndDate": "2023-09-19T19:00:00.000Z",
+      "workingHours": "40",
+      "workingHoursUnit": "year",
+      "trialPeriod": "no",
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
     },
     {
       "id": "2",
@@ -20,7 +28,15 @@
       "roleId": "j1",
       "hireDate": "10/16/2017",
       "salaryAmount": 71467.17,
-      "roleRank": "junior"
+      "salaryFrequency": "yearly",
+      "roleRank": "senior",
+      "contractEffectiveDate": "2023-09-04T19:00:00.000Z",
+      "contractStartDate": "2023-09-04T19:00:00.000Z",
+      "workingHours": "48",
+      "WorkingHoursUnit": "week",
+      "contractEndDate": "2023-09-13T19:00:00.000Z",
+      "trialPeriod": "yes",
+      "trialPeriodEndDate": "2023-09-07T19:00:00.000Z"
     },
     {
       "id": "3",
@@ -31,6 +47,7 @@
       "roleId": "Accountant I",
       "hireDate": "11/29/2015",
       "salaryAmount": 44995.71,
+      "salaryFrequency": "yearly",
       "roleRank": "internee"
     },
     {
@@ -42,6 +59,7 @@
       "roleId": "j1",
       "hireDate": "10/18/2020",
       "salaryAmount": 141491.29,
+      "salaryFrequency": "monthly",
       "roleRank": "freshie"
     },
     {
@@ -53,6 +71,7 @@
       "roleId": "Mechanical Systems Engineer",
       "hireDate": "9/20/2022",
       "salaryAmount": 97881.21,
+      "salaryFrequency": "monthly",
       "roleRank": "graduate"
     },
     {
@@ -64,6 +83,7 @@
       "roleId": "Assistant Media Planner",
       "hireDate": "8/18/2020",
       "salaryAmount": 120213.26,
+      "salaryFrequency": "monthly",
       "roleRank": "senior"
     },
     {
@@ -75,6 +95,7 @@
       "roleId": "Information Systems Manager",
       "hireDate": "2/16/2013",
       "salaryAmount": 70070.9,
+      "salaryFrequency": "daily",
       "roleRank": "leader"
     },
     {
@@ -86,6 +107,7 @@
       "roleId": "Cost Accountant",
       "hireDate": "10/1/2017",
       "salaryAmount": 34855.2,
+      "salaryFrequency": "yearly",
       "roleRank": "senior"
     },
     {
@@ -97,6 +119,7 @@
       "roleId": "Chemical Engineer",
       "hireDate": "2/25/2019",
       "salaryAmount": 57230.66,
+      "salaryFrequency": "yearly",
       "roleRank": "junior"
     },
     {
@@ -108,6 +131,7 @@
       "roleId": "Account Executive",
       "hireDate": "5/11/2015",
       "salaryAmount": 35855.78,
+      "salaryFrequency": "yearly",
       "roleRank": "junior"
     }
   ],
@@ -316,7 +340,7 @@
     {
       "id": "ta1",
       "employeeId": "1",
-      "status":"incomplete",
+      "status": "incomplete",
       "title": "task1",
       "description": "Sample Description 1",
       "dueDate": "2023-08-31T19:00:00.000Z"
@@ -325,7 +349,7 @@
       "id": "ta2",
       "employeeId": "1",
       "title": "task2",
-      "status":"complete",
+      "status": "complete",
       "description": "Sample Description 2",
       "dueDate": "2023-08-20T19:00:00.000Z"
     },
@@ -333,17 +357,25 @@
       "id": "ta3",
       "employeeId": "2",
       "title": "task3",
-      "status":"incomplete",
+      "status": "incomplete",
       "description": "Sample Description 3",
       "dueDate": "2023-08-29T19:00:00.000Z"
     },
     {
       "id": "ta4",
       "employeeId": "2",
-      "status":"incomplete",
+      "status": "incomplete",
       "title": "task3",
       "description": "Sample Description 4",
       "dueDate": "2023-08-29T19:00:00.000Z"
+    },
+    {
+      "employeeId": "1",
+      "title": "asdalj new",
+      "description": "JLNXCKJA new",
+      "dueDate": "2023-08-14T19:00:00.000Z",
+      "status": "incomplete",
+      "id": "yQQKibt"
     }
   ]
 }
