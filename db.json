@@ -48,7 +48,14 @@
       "hireDate": "11/29/2015",
       "salaryAmount": 44995.71,
       "salaryFrequency": "yearly",
-      "roleRank": "internee"
+      "roleRank": "internee",
+      "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
+      "contractStartDate": "5/10/2022",
+      "contractEndDate": "2023-09-19T19:00:00.000Z",
+      "workingHours": "40",
+      "workingHoursUnit": "year",
+      "trialPeriod": "no",
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
     },
     {
       "id": "4",
@@ -60,7 +67,14 @@
       "hireDate": "10/18/2020",
       "salaryAmount": 141491.29,
       "salaryFrequency": "monthly",
-      "roleRank": "freshie"
+      "roleRank": "freshie",
+      "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
+      "contractStartDate": "5/10/2022",
+      "contractEndDate": "2023-09-19T19:00:00.000Z",
+      "workingHours": "40",
+      "workingHoursUnit": "year",
+      "trialPeriod": "no",
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
     },
     {
       "id": "5",
@@ -72,7 +86,14 @@
       "hireDate": "9/20/2022",
       "salaryAmount": 97881.21,
       "salaryFrequency": "monthly",
-      "roleRank": "graduate"
+      "roleRank": "graduate",
+      "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
+      "contractStartDate": "5/10/2022",
+      "contractEndDate": "2023-09-19T19:00:00.000Z",
+      "workingHours": "40",
+      "workingHoursUnit": "year",
+      "trialPeriod": "no",
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
     },
     {
       "id": "6",
@@ -84,7 +105,14 @@
       "hireDate": "8/18/2020",
       "salaryAmount": 120213.26,
       "salaryFrequency": "monthly",
-      "roleRank": "senior"
+      "roleRank": "senior",
+      "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
+      "contractStartDate": "5/10/2022",
+      "contractEndDate": "2023-09-19T19:00:00.000Z",
+      "workingHours": "40",
+      "workingHoursUnit": "year",
+      "trialPeriod": "no",
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
     },
     {
       "id": "7",
@@ -96,7 +124,14 @@
       "hireDate": "2/16/2013",
       "salaryAmount": 70070.9,
       "salaryFrequency": "daily",
-      "roleRank": "leader"
+      "roleRank": "leader",
+      "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
+      "contractStartDate": "5/10/2022",
+      "contractEndDate": "2023-09-19T19:00:00.000Z",
+      "workingHours": "40",
+      "workingHoursUnit": "year",
+      "trialPeriod": "no",
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
     },
     {
       "id": "8",
@@ -108,7 +143,14 @@
       "hireDate": "10/1/2017",
       "salaryAmount": 34855.2,
       "salaryFrequency": "yearly",
-      "roleRank": "senior"
+      "roleRank": "senior",
+      "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
+      "contractStartDate": "5/10/2022",
+      "contractEndDate": "2023-09-19T19:00:00.000Z",
+      "workingHours": "40",
+      "workingHoursUnit": "year",
+      "trialPeriod": "no",
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
     },
     {
       "id": "9",
@@ -120,7 +162,14 @@
       "hireDate": "2/25/2019",
       "salaryAmount": 57230.66,
       "salaryFrequency": "yearly",
-      "roleRank": "junior"
+      "roleRank": "junior",
+      "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
+      "contractStartDate": "5/10/2022",
+      "contractEndDate": "2023-09-19T19:00:00.000Z",
+      "workingHours": "40",
+      "workingHoursUnit": "year",
+      "trialPeriod": "no",
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
     },
     {
       "id": "10",
@@ -132,7 +181,14 @@
       "hireDate": "5/11/2015",
       "salaryAmount": 35855.78,
       "salaryFrequency": "yearly",
-      "roleRank": "junior"
+      "roleRank": "junior",
+      "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
+      "contractStartDate": "5/10/2022",
+      "contractEndDate": "2023-09-19T19:00:00.000Z",
+      "workingHours": "40",
+      "workingHoursUnit": "year",
+      "trialPeriod": "no",
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
     }
   ],
   "jobs": [
