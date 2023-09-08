@@ -502,31 +502,31 @@
   "legal_entities":[
     {
         "id": "250030",
-        "company_id": "243526",
+        "companyId": "243526",
         "country": "lb",
         "name": "Technit 1",
         "currency": "AED",
         "main": "false",
-        "tin": "1233343",
+        "taxIdentificationNumber": "1233343",
         "city": "asd",
         "state": "adcx",
-        "postal_code": "12324",
-        "address_line_1": "adfasfa",
-        "address_line_2": "asdfad"
+        "postalCode": "12324",
+        "addressLine1": "adfasfa",
+        "addressLine2": "asdfad"
     },
     {
         "id": "250032",
-        "company_id": "243526",
+        "companyId": "243526",
         "country": "lb",
         "name": "Technit 2",
         "currency": "AED",
         "main": "false",
-        "tin": "1233343",
+        "taxIdentificationNumber": "1233343",
         "city": "asd",
         "state": "adcx",
-        "postal_code": "12324",
-        "address_line_1": "adfasfa",
-        "address_line_2": "asdfad"
+        "postalCode": "12324",
+        "addressLine1": "adfasfa",
+        "addressLine2": "asdfad"
     }
   ]
 }
