@@ -637,7 +637,7 @@
       "city": "Karachi",
       "address_line_1": "address 1",
       "address_line_2": "addres additional info",
-      "postal_code": "65432",
+      "postalCode": "65432",
       "latitude": null,
       "longitude": null,
       "timezone": "Asia/Karachi",
