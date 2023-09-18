@@ -674,7 +674,7 @@
       "source": "manually_added",
       "source_id": 57204,
       "medium": null,
-      "personal_url": "www.linedin.com",
+      "personalUrl": "www.linkdin.com",
       "rating_average": 0,
       "embedding_score": null,
       "ats_rejection_reason_id": null
@@ -706,13 +706,13 @@
       "source": "manually_added",
       "source_id": 57204,
       "medium": null,
-      "personal_url": "www.linedin.com",
+      "personalUrl": "www.linkdin.com",
       "rating_average": 0,
       "embedding_score": null,
       "ats_rejection_reason_id": null
     },
     {
-      "id": 1595622,
+      "id": 1595624,
       "jobPostingId": 39363,
       "jobPostingTitle": "Recruiter",
       "ats_candidate_id": 1524130,
@@ -738,7 +738,7 @@
       "source": "manually_added",
       "source_id": 57204,
       "medium": null,
-      "personal_url": "www.linedin.com",
+      "personalUrl": "www.linkdin.com",
       "rating_average": 0,
       "embedding_score": null,
       "ats_rejection_reason_id": null
