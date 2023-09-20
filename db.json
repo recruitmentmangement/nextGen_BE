@@ -676,6 +676,7 @@
       "medium": null,
       "personalUrl": "www.linkdin.com",
       "rating_average": 0,
+      "status":"acitve",
       "embedding_score": null,
       "ats_rejection_reason_id": null
     },
@@ -708,6 +709,7 @@
       "medium": null,
       "personalUrl": "www.linkdin.com",
       "rating_average": 0,
+      "status":"acitve",
       "embedding_score": null,
       "ats_rejection_reason_id": null
     },
@@ -741,6 +743,7 @@
       "personalUrl": "www.linkdin.com",
       "rating_average": 0,
       "embedding_score": null,
+      "status":"acitve",
       "ats_rejection_reason_id": null
     }
   ]
