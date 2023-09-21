@@ -373,6 +373,34 @@
       "title": "other 2",
       "url": "sample Url o2",
       "type": "other"
+    },
+    {
+      "id": "d6",
+      "resourceId": "1595622",
+      "title": "application 1",
+      "url": "sample Url o2",
+      "type": "application"
+    },
+    {
+      "id": "d7",
+      "resourceId": "1595622",
+      "title": "application 2",
+      "url": "sample Url o2",
+      "type": "application"
+    },
+    {
+      "id": "d8",
+      "resourceId": "1595620",
+      "title": "application 3",
+      "url": "sample Url o2",
+      "type": "application"
+    },
+    {
+      "id": "d9",
+      "resourceId": "1595620",
+      "title": "application 4",
+      "url": "sample Url o2",
+      "type": "application"
     }
   ],
   "tasks": [
@@ -668,7 +696,14 @@
       "photo": null,
       "photo_thumbnail": null,
       "cover_letter": null,
-      "cv": null,
+      "cv": {
+        "content_type": "application/pdf",
+        "filename": "1685889120193_TypographyB.pdf",
+        "size": 216653,
+        "created_at": "2023-09-21T07:16:26.000Z",
+        "url":"bucket url...",
+        "file": "/applications/1610227/cv_file?download=true"
+      },
       "cv_pdf": null,
       "conversation_id": null,
       "source": "manually_added",
@@ -676,7 +711,7 @@
       "medium": null,
       "personalUrl": "www.linkdin.com",
       "rating_average": 0,
-      "status":"acitve",
+      "status": "acitve",
       "embedding_score": null,
       "ats_rejection_reason_id": null
     },
@@ -709,7 +744,7 @@
       "medium": null,
       "personalUrl": "www.linkdin.com",
       "rating_average": 0,
-      "status":"acitve",
+      "status": "acitve",
       "embedding_score": null,
       "ats_rejection_reason_id": null
     },
@@ -743,7 +778,7 @@
       "personalUrl": "www.linkdin.com",
       "rating_average": 0,
       "embedding_score": null,
-      "status":"acitve",
+      "status": "acitve",
       "ats_rejection_reason_id": null
     }
   ]
