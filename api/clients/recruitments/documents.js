@@ -1,9 +1,9 @@
 const uploadDocuments = (server) => {
   server.post('/documents/upload', (req, res) => {
     const { name: title } = req.files.file;
-    const { employeeId, type } = req.body;
+    const { resourceId, type } = req.body;
     const newDocument = {
-      employeeId,
+      resourceId,
       title,
       url: 'sample bucket url ',
       type: type,

@@ -410,6 +410,17 @@
       "url": "sample Url o2",
       "type": "application",
       "createdAt": "2023-09-21T07:16:26.000Z"
+    },
+    {
+      "id":"d10",
+      "resourceId": "1595620",
+      "content_type": "application/pdf",
+      "title": "TypographyB.pdf",
+      "type": "cv",
+      "size": 216653,
+      "createdAt": "2023-09-21T07:16:26.000Z",
+      "url":"bucket url...",
+      "file": "/applications/1610227/cv_file?download=true"
     }
   ],
   "tasks": [
@@ -705,14 +716,7 @@
       "photo": null,
       "photo_thumbnail": null,
       "cover_letter": null,
-      "cv": {
-        "content_type": "application/pdf",
-        "title": "TypographyB.pdf",
-        "size": 216653,
-        "createdAt": "2023-09-21T07:16:26.000Z",
-        "url":"bucket url...",
-        "file": "/applications/1610227/cv_file?download=true"
-      },
+      "cv": "d10",
       "cv_pdf": null,
       "conversation_id": null,
       "source": "manually_added",
