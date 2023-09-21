@@ -344,63 +344,72 @@
       "resourceId": "1",
       "title": "contract 1",
       "url": "sample Url c1",
-      "type": "contract"
+      "type": "contract",
+      "createdAt": "2023-09-21T07:16:26.000Z"
     },
     {
       "id": "d2",
       "resourceId": "1",
       "title": "ID Documnet 2",
       "url": "sample Url idd2",
-      "type": "idDocument"
+      "type": "idDocument",
+      "createdAt": "2023-09-21T07:16:26.000Z"
     },
     {
       "id": "d3",
       "resourceId": "1",
       "title": "sickLeave 2",
       "url": "sample Url sl2",
-      "type": "sickLeave"
+      "type": "sickLeave",
+      "createdAt": "2023-09-21T07:16:26.000Z"
     },
     {
       "id": "d4",
       "resourceId": "1",
       "title": "paySlip 2",
       "url": "sample Url pS2",
-      "type": "paySlip"
+      "type": "paySlip",
+      "createdAt": "2023-09-21T07:16:26.000Z"
     },
     {
       "id": "d5",
       "resourceId": "1",
       "title": "other 2",
       "url": "sample Url o2",
-      "type": "other"
+      "type": "other",
+      "createdAt": "2023-09-21T07:16:26.000Z"
     },
     {
       "id": "d6",
       "resourceId": "1595622",
       "title": "application 1",
       "url": "sample Url o2",
-      "type": "application"
+      "type": "application",
+      "createdAt": "2023-09-21T07:16:26.000Z"
     },
     {
       "id": "d7",
       "resourceId": "1595622",
       "title": "application 2",
       "url": "sample Url o2",
-      "type": "application"
+      "type": "application",
+      "createdAt": "2023-09-21T07:16:26.000Z"
     },
     {
       "id": "d8",
       "resourceId": "1595620",
       "title": "application 3",
       "url": "sample Url o2",
-      "type": "application"
+      "type": "application",
+      "createdAt": "2023-09-21T07:16:26.000Z"
     },
     {
       "id": "d9",
       "resourceId": "1595620",
       "title": "application 4",
       "url": "sample Url o2",
-      "type": "application"
+      "type": "application",
+      "createdAt": "2023-09-21T07:16:26.000Z"
     }
   ],
   "tasks": [
