@@ -412,14 +412,14 @@
       "createdAt": "2023-09-21T07:16:26.000Z"
     },
     {
-      "id":"d10",
+      "id": "d10",
       "resourceId": "1595620",
       "content_type": "application/pdf",
       "title": "TypographyB.pdf",
       "type": "cv",
       "size": 216653,
       "createdAt": "2023-09-21T07:16:26.000Z",
-      "url":"bucket url...",
+      "url": "bucket url...",
       "file": "/applications/1610227/cv_file?download=true"
     }
   ],
@@ -793,6 +793,38 @@
       "embedding_score": null,
       "status": "acitve",
       "ats_rejection_reason_id": null
+    }
+  ],
+  "genders": [
+    {
+      "id": 456534,
+      "name": "female",
+      "legal_entities": ["", ""]
+    },
+    {
+      "id": 456535,
+      "name": "male"
+    },
+    {
+      "name": "Adminsdasdasda",
+      "legalEntities": ["le2", "le1"],
+      "id": 456536
+    }
+  ],
+  "customFields": [
+    {
+      "title": "text",
+      "isMandatory": true,
+      "fieldType": "text",
+      "selectOptions": [],
+      "id": 1
+    },
+    {
+      "title": "hgjh",
+      "isMandatory": true,
+      "fieldType": "text",
+      "selectOptions": [],
+      "id": 3
     }
   ]
 }
