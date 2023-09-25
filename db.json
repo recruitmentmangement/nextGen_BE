@@ -826,5 +826,13 @@
       "selectOptions": [],
       "id": 3
     }
+  ],
+  "templates":[
+    {
+      "Id": 1,
+      "Title": "yyy",
+      "Body": "body"
+    }
   ]
+
 }
