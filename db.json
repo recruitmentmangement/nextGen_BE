@@ -829,9 +829,9 @@
   ],
   "templates":[
     {
-      "Id": 1,
-      "Title": "yyy",
-      "Body": "body"
+      "id": 1,
+      "title": "yyy",
+      "body": "body"
     }
   ]
 
