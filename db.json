@@ -845,16 +845,19 @@
 "emailtemplates":[
     {
       "id": 1,
-      "title": "yyy1",
-      "body": "body1"
+"name":"template 1 vercel",
+"subject":"template 1 body vercel",
+      "body": "template 1 body vercel"
     },{
       "id": 2,
-      "title": "yyy2",
-      "body": "body2"
+"name":"template 2 vercel",
+"subject":"template 2 body vercel",
+      "body": "template 2 body vercel"
     },{
       "id": 3,
-      "title": "yyy3",
-      "body": "body3"
+"name":"template 3 vercel",
+"subject":"template 3 body vercel",
+      "body": "template 3 body vercel"
     }
   ]
 
