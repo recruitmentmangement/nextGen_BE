@@ -841,6 +841,21 @@
       "title": "yyy3",
       "body": "body3"
     }
+  ],
+"emailtemplates":[
+    {
+      "id": 1,
+      "title": "yyy1",
+      "body": "body1"
+    },{
+      "id": 2,
+      "title": "yyy2",
+      "body": "body2"
+    },{
+      "id": 3,
+      "title": "yyy3",
+      "body": "body3"
+    }
   ]
 
 }
