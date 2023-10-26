@@ -10,7 +10,6 @@
       "hireDate": "5/10/2022",
       "salaryAmount": 145674.19,
       "salaryFrequency": "yearly",
-      "legalEntityId": "le1",
       "roleRank": "senior",
       "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
       "contractStartDate": "5/10/2022",
@@ -18,19 +17,28 @@
       "workingHours": "40",
       "workingHoursUnit": "year",
       "trialPeriod": "no",
-      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z",
+      "manager": "6",
+      "workPlace": "karachi ",
+      "timeOffPolicy": "policy1",
+      "timeOffSupervisor": "2",
+      "reference": "amir",
+      "test": "teset chck",
+      "admin": "admins",
+      "castellanidasdasdasd": "3",
+      "dsadasds1": "5",
+      "status": "active"
     },
     {
       "id": "2",
-      "firstName": "Giusto",
-      "lastName": "Quixley",
-      "email": "gquixley1@hc360.com",
-      "teamId": "t1",
+      "firstName": "Faizan",
+      "lastName": "Ahmed",
+      "email": "gquixley1@gfgf.jj",
+      "legalEntity": "Technitltd",
       "roleId": "j1",
       "hireDate": "10/16/2017",
       "salaryAmount": 71467.17,
       "salaryFrequency": "yearly",
-      "legalEntityId": "le1",
       "roleRank": "senior",
       "contractEffectiveDate": "2023-09-04T19:00:00.000Z",
       "contractStartDate": "2023-09-04T19:00:00.000Z",
@@ -38,19 +46,45 @@
       "WorkingHoursUnit": "week",
       "contractEndDate": "2023-09-13T19:00:00.000Z",
       "trialPeriod": "yes",
-      "trialPeriodEndDate": "2023-09-07T19:00:00.000Z"
+      "trialPeriodEndDate": "2023-09-07T19:00:00.000Z",
+      "identityDocument": "passport",
+      "idNumber": "9876543",
+      "prefferedName": "Administrator",
+      "prefferedPronouns": "developer",
+      "dateOfBirth": "2023-09-27T07:00:00.000Z",
+      "legalGender": "male",
+      "nationality": "pakistani",
+      "addressLine1": "adress 1 ",
+      "addressLine2": "addres 2",
+      "city": "lhr",
+      "postCode": "567779",
+      "country": "pakistan",
+      "bankAccountNumber": "1234567890",
+      "sortCode": "00000",
+      "emergencyName": "emergency name",
+      "emergencyPhoneNumber": "45454235345",
+      "timeOffPolicy": "policy3",
+      "timeOffSupervisor": "1",
+      "manager": "3",
+      "workPlace": "karachi ",
+      "teamId": "t2",
+      "phoneNumber": "1234567890",
+      "references": "Admin",
+      "test": "test",
+      "teset1": "5",
+      "date2": "2023-09-19T07:00:00.000Z",
+      "status": "pending"
     },
     {
       "id": "3",
       "firstName": "Rakel",
       "lastName": "Castellani",
       "teamId": "t1",
-      "email": "rcastellani2@china.com.cn",
+      "email": "rcastellani2@china.com.com",
       "roleId": "j1",
       "hireDate": "11/29/2015",
       "salaryAmount": 44995.71,
       "salaryFrequency": "yearly",
-      "legalEntityId": "le1",
       "roleRank": "internee",
       "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
       "contractStartDate": "5/10/2022",
@@ -58,7 +92,12 @@
       "workingHours": "40",
       "workingHoursUnit": "year",
       "trialPeriod": "no",
-      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z",
+      "timeOffPolicy": "policy2",
+      "timeOffSupervisor": "4",
+      "manager": "2",
+      "workPlace": "lahore",
+      "status": "active"
     },
     {
       "id": "4",
@@ -70,7 +109,6 @@
       "hireDate": "10/18/2020",
       "salaryAmount": 141491.29,
       "salaryFrequency": "monthly",
-      "legalEntityId": "le2",
       "roleRank": "freshie",
       "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
       "contractStartDate": "5/10/2022",
@@ -78,7 +116,8 @@
       "workingHours": "40",
       "workingHoursUnit": "year",
       "trialPeriod": "no",
-      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z",
+      "status": "active"
     },
     {
       "id": "5",
@@ -87,7 +126,6 @@
       "teamId": "t2",
       "email": "abengough4@zimbio.com",
       "roleId": "j1",
-      "legalEntityId": "le2",
       "hireDate": "9/20/2022",
       "salaryAmount": 97881.21,
       "salaryFrequency": "monthly",
@@ -98,7 +136,8 @@
       "workingHours": "40",
       "workingHoursUnit": "year",
       "trialPeriod": "no",
-      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z",
+      "status": "active"
     },
     {
       "id": "6",
@@ -109,7 +148,6 @@
       "roleId": "j3",
       "hireDate": "8/18/2020",
       "salaryAmount": 120213.26,
-      "legalEntityId": "le2",
       "salaryFrequency": "monthly",
       "roleRank": "senior",
       "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
@@ -118,7 +156,8 @@
       "workingHours": "40",
       "workingHoursUnit": "year",
       "trialPeriod": "no",
-      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z",
+      "status": "inactive"
     },
     {
       "id": "7",
@@ -127,7 +166,6 @@
       "teamId": "t3",
       "email": "mwingrove6@bizjournals.com",
       "roleId": "j2",
-      "legalEntityId": "le1",
       "hireDate": "2/16/2013",
       "salaryAmount": 70070.9,
       "salaryFrequency": "daily",
@@ -138,27 +176,8 @@
       "workingHours": "40",
       "workingHoursUnit": "year",
       "trialPeriod": "no",
-      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
-    },
-    {
-      "id": "8",
-      "firstName": "Chantalle",
-      "lastName": "Cussen",
-      "teamId": "t1",
-      "email": "ccussen7@nydailynews.com",
-      "roleId": "j1",
-      "hireDate": "10/1/2017",
-      "legalEntityId": "le1",
-      "salaryAmount": 34855.2,
-      "salaryFrequency": "yearly",
-      "roleRank": "senior",
-      "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
-      "contractStartDate": "5/10/2022",
-      "contractEndDate": "2023-09-19T19:00:00.000Z",
-      "workingHours": "40",
-      "workingHoursUnit": "year",
-      "trialPeriod": "no",
-      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z",
+      "status": "inactive"
     },
     {
       "id": "9",
@@ -166,7 +185,6 @@
       "lastName": "Heims",
       "email": "aheims8@is.gd",
       "teamId": "t3",
-      "legalEntityId": "le1",
       "roleId": "j3",
       "hireDate": "2/25/2019",
       "salaryAmount": 57230.66,
@@ -178,27 +196,74 @@
       "workingHours": "40",
       "workingHoursUnit": "year",
       "trialPeriod": "no",
-      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
+      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z",
+      "status": "active"
     },
     {
-      "id": "10",
-      "firstName": "Robena",
-      "lastName": "Kubatsch",
+      "firstName": "Ahmed",
+      "lastName": "sarfaraz",
+      "email": "a@s.cmo",
+      "workPlace": "remote",
       "teamId": "t2",
-      "email": "rkubatsch9@buzzfeed.com",
+      "legalEntity": "technit-ltd",
+      "roleId": "j1",
+      "roleRank": "senior",
+      "invite": true,
+      "salaryAmount": "6543",
+      "salaryFrequency": "monthly",
+      "contractEffectiveDate": "2023-09-20T07:00:00.000Z",
+      "contractStartDate": "2023-09-20T07:00:00.000Z",
+      "contractEndDate": "",
+      "workingHours": "",
+      "workingHoursUnit": "",
+      "trialPeriod": "",
+      "trialPeriodEndDate": "",
+      "id": "UJIxIw3",
+      "status": "active"
+    },
+    {
+      "firstName": "salman",
+      "lastName": "saleem",
+      "email": "s@s.com",
+      "workPlace": "lahore",
+      "teamId": "t2",
+      "legalEntity": "technit-ltd",
       "roleId": "j2",
-      "hireDate": "5/11/2015",
-      "salaryAmount": 35855.78,
-      "legalEntityId": "le2",
-      "salaryFrequency": "yearly",
-      "roleRank": "junior",
-      "contractEffectiveDate": "2022-05-11T19:00:00.000Z",
-      "contractStartDate": "5/10/2022",
-      "contractEndDate": "2023-09-19T19:00:00.000Z",
-      "workingHours": "40",
-      "workingHoursUnit": "year",
-      "trialPeriod": "no",
-      "trialPeriodEndDate": "2023-09-05T19:00:00.000Z"
+      "roleRank": "senior",
+      "invite": true,
+      "salaryAmount": "76543",
+      "salaryFrequency": "monthly",
+      "contractEffectiveDate": "2023-09-20T07:00:00.000Z",
+      "contractStartDate": "2023-09-20T07:00:00.000Z",
+      "contractEndDate": "",
+      "workingHours": "",
+      "workingHoursUnit": "",
+      "trialPeriod": "",
+      "trialPeriodEndDate": "",
+      "id": "pg95OSo",
+      "status": "inactive"
+    },
+    {
+      "firstName": "Faizan",
+      "lastName": "Ahmed",
+      "email": "shahanhm24@gmail.com",
+      "workPlace": "remote",
+      "teamId": "t1",
+      "legalEntity": "technit-ltd",
+      "roleId": "j1",
+      "roleRank": "senior",
+      "invite": true,
+      "salaryAmount": "76",
+      "salaryFrequency": "monthly",
+      "contractEffectiveDate": "2023-09-13T07:00:00.000Z",
+      "contractStartDate": "2023-09-13T07:00:00.000Z",
+      "contractEndDate": "",
+      "workingHours": "",
+      "workingHoursUnit": "",
+      "trialPeriod": "",
+      "trialPeriodEndDate": "",
+      "id": "JwmWdLQ",
+      "status": "inactive"
     }
   ],
   "jobs": [
@@ -206,45 +271,93 @@
       "id": "j1",
       "title": "Developer",
       "description": "sample description 1 new",
-      "ranks": ["senior", "junior", "freshie"],
-      "editorIds": ["1", "2", "3"]
+      "ranks": [
+        "senior",
+        "junior",
+        "freshie"
+      ],
+      "editorIds": [
+        "1",
+        "2",
+        "3"
+      ]
     },
     {
       "id": "j2",
       "title": "Hr",
       "description": "sample description 2",
-      "ranks": ["senior", "junior"],
-      "editorIds": ["1", "2", "3"]
+      "ranks": [
+        "senior",
+        "junior"
+      ],
+      "editorIds": [
+        "1",
+        "2",
+        "3"
+      ]
     },
     {
       "id": "j3",
       "title": "Marketer",
       "description": "sample description 3",
-      "ranks": ["senior", "junior"],
-      "editorIds": ["1", "2", "3"]
+      "ranks": [
+        "senior",
+        "junior"
+      ],
+      "editorIds": [
+        "1",
+        "2",
+        "3"
+      ]
     },
     {
       "title": "xcz",
       "description": "zx ew",
-      "ranks": ["123"],
-      "editorIds": ["4", "5"],
+      "ranks": [
+        "123"
+      ],
+      "editorIds": [
+        "4",
+        "5"
+      ],
       "id": "LufiGN0"
     },
     {
-      "title": "",
-      "description": "",
+      "title": "Business Development",
+      "description": "BD JD",
       "ranks": [],
       "editorIds": [],
-      "dueDate": "2023-08-23T19:00:00.000Z",
-      "id": "Tb7GWqz"
+      "id": "Jg14wOc"
+    },
+    {
+      "title": "marketer",
+      "description": "marketer desc",
+      "ranks": [
+        "qq",
+        "junior"
+      ],
+      "editorIds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "9",
+        "UJIxIw3",
+        "pg95OSo",
+        "JwmWdLQ"
+      ],
+      "id": "8vyN4Ds"
     }
   ],
   "salary_ranges": [
     {
       "id": "s1",
-      "minRange": "100",
-      "maxRange": "100",
-      "salaryFrequency": "monthly",
+      "minRange": "20",
+      "maxRange": "30",
+      "salaryFrequency": "daily",
       "amountType": "range",
       "roleId": "j1",
       "rank": "junior"
@@ -300,127 +413,126 @@
       "rank": "freshie",
       "roleId": "j1",
       "id": "F6lFqsA"
+    },
+    {
+      "minRange": "10000",
+      "maxRange": "10000",
+      "amountType": "fixed",
+      "salaryFrequency": "monthly",
+      "rank": "senior",
+      "roleId": "j1",
+      "id": "XG55Ayr"
+    },
+    {
+      "minRange": "0",
+      "maxRange": "0",
+      "amountType": "range",
+      "salaryFrequency": "monthly",
+      "rank": "junior",
+      "roleId": "j1",
+      "id": "5FYluwv"
     }
   ],
   "teams": [
     {
       "id": "t1",
       "title": "Team 1",
-      "description": "description T1",
-      "memberIds": ["1", "2", "3", "4"],
+      "description": "description T1111",
+      "memberIds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
       "leaderId": "1"
     },
     {
       "id": "t2",
       "title": "Team 2",
       "description": "description T2",
-      "memberIds": ["5", "6", "7"],
+      "memberIds": [
+        "5",
+        "6",
+        "7"
+      ],
       "leaderId": "6"
     },
     {
       "id": "t3",
       "title": "Team 3",
       "description": "description T3",
-      "memberIds": ["9", "10"],
+      "memberIds": [
+        "9",
+        "10"
+      ],
       "leaderId": "9"
-    }
-  ],
-  "timeTracking": [
+    },
     {
-      "id": "149023304",
-      "employeeId": "1363742",
-      "employeeName": "test name",
-      "startAt": "2023-08-23T07:13:20.498Z",
-      "endAt": "2023-08-23T010:26:29.498Z",
-      "estimated": "0.0",
-      "worked": "2245.0",
-      "balance": "2245.0",
-      "clockedIn": false
+      "title": "new team check",
+      "description": "new team check desc",
+      "memberIds": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "leaderId": "null",
+      "id": "cEL7Fog"
+    },
+    {
+      "title": "engineering team",
+      "description": "engineering team description",
+      "memberIds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "leaderId": "null",
+      "id": "DTltn32"
     }
   ],
+  "timeTracking": [],
   "documents": [
     {
       "id": "d1",
-      "resourceId": "1",
+      "employeeId": "1",
       "title": "contract 1",
       "url": "sample Url c1",
-      "type": "contract",
-      "createdAt": "2023-09-21T07:16:26.000Z"
+      "type": "contract"
     },
     {
       "id": "d2",
-      "resourceId": "1",
+      "employeeId": "1",
       "title": "ID Documnet 2",
       "url": "sample Url idd2",
-      "type": "idDocument",
-      "createdAt": "2023-09-21T07:16:26.000Z"
+      "type": "idDocument"
     },
     {
       "id": "d3",
-      "resourceId": "1",
+      "employeeId": "1",
       "title": "sickLeave 2",
       "url": "sample Url sl2",
-      "type": "sickLeave",
-      "createdAt": "2023-09-21T07:16:26.000Z"
+      "type": "sickLeave"
     },
     {
       "id": "d4",
-      "resourceId": "1",
+      "employeeId": "1",
       "title": "paySlip 2",
       "url": "sample Url pS2",
-      "type": "paySlip",
-      "createdAt": "2023-09-21T07:16:26.000Z"
+      "type": "paySlip"
     },
     {
       "id": "d5",
-      "resourceId": "1",
+      "employeeId": "1",
       "title": "other 2",
       "url": "sample Url o2",
-      "type": "other",
-      "createdAt": "2023-09-21T07:16:26.000Z"
-    },
-    {
-      "id": "d6",
-      "resourceId": "1595622",
-      "title": "application 1",
-      "url": "sample Url o2",
-      "type": "application",
-      "createdAt": "2023-09-21T07:16:26.000Z"
-    },
-    {
-      "id": "d7",
-      "resourceId": "1595622",
-      "title": "application 2",
-      "url": "sample Url o2",
-      "type": "application",
-      "createdAt": "2023-09-21T07:16:26.000Z"
-    },
-    {
-      "id": "d8",
-      "resourceId": "1595620",
-      "title": "application 3",
-      "url": "sample Url o2",
-      "type": "application",
-      "createdAt": "2023-09-21T07:16:26.000Z"
-    },
-    {
-      "id": "d9",
-      "resourceId": "1595620",
-      "title": "application 4",
-      "url": "sample Url o2",
-      "type": "application",
-      "createdAt": "2023-09-21T07:16:26.000Z"
-    },
-    {
-      "id": "d10",
-      "resourceId": "1595620",
-      "content_type": "application/pdf",
-      "title": "TypographyB.pdf",
-      "type": "cv",
-      "size": 216653,
-      "createdAt": "2023-09-21T07:16:26.000Z",
-      "url": "bucket url...",
-      "file": "/applications/1610227/cv_file?download=true"
+      "type": "other"
     }
   ],
   "tasks": [
@@ -463,98 +575,314 @@
       "dueDate": "2023-08-14T19:00:00.000Z",
       "status": "incomplete",
       "id": "yQQKibt"
+    },
+    {
+      "title": "task1 ",
+      "description": "task 1 description",
+      "dueDate": "2023-10-25T07:00:00.000Z",
+      "status": "incomplete",
+      "id": "q_5DAvV"
+    },
+    {
+      "employeeId": "2",
+      "title": "Task 1",
+      "description": "Task 1 description",
+      "dueDate": "2023-10-25T07:00:00.000Z",
+      "status": "incomplete",
+      "id": "bNprSfq"
     }
   ],
   "time_off": [
     {
-      "id": 1,
       "url": "",
-      "title": "Design Review",
-      "start": "2023-09-05T14:27:31.228Z",
-      "end": "2023-09-06T14:27:31.228Z",
-      "allDay": false,
-      "extendedProps": { "calendar": "Business" }
+      "display": "block",
+      "title": "businesss meeting",
+      "color": "07A2AD",
+      "end": "2023-10-05T08:30:07.760Z",
+      "allDay": true,
+      "start": "2023-10-04T08:30:07.760Z",
+      "extendedProps": {
+        "calendar": "Business",
+        "description": "businesss meeting"
+      },
+      "id": 1
     },
     {
-      "id": 2,
       "url": "",
-      "title": "Meeting With Client",
-      "start": "2023-09-18T19:00:00.000Z",
-      "end": "2023-09-19T19:00:00.000Z",
+      "display": "block",
+      "title": "Holiday",
+      "color": "F5BA58",
+      "end": "2023-10-05T08:30:07.760Z",
       "allDay": true,
-      "extendedProps": { "calendar": "Business" }
+      "start": "2023-10-04T08:30:07.760Z",
+      "extendedProps": {
+        "calendar": "Holiday",
+        "description": "businesss meeting"
+      },
+      "id": 2
     },
     {
-      "id": 3,
       "url": "",
-      "title": "Family Trip",
+      "display": "block",
+      "title": "Personal",
+      "color": "FF9153",
+      "end": "2023-10-05T08:30:07.760Z",
       "allDay": true,
-      "start": "2023-09-20T19:00:00.000Z",
-      "end": "2023-09-22T19:00:00.000Z",
-      "extendedProps": { "calendar": "Holiday" }
+      "start": "2023-10-04T08:30:07.760Z",
+      "extendedProps": {
+        "calendar": "Personal",
+        "description": "businesss meeting"
+      },
+      "id": 3
     },
     {
-      "id": 4,
       "url": "",
-      "title": "Doctor's Appointment",
-      "start": "2023-09-18T19:00:00.000Z",
-      "end": "2023-09-19T19:00:00.000Z",
+      "display": "block",
+      "title": "family desc",
+      "end": "2023-10-11T11:21:21.000Z",
       "allDay": true,
-      "extendedProps": { "calendar": "Personal" }
+      "start": "2023-10-09T11:21:21.000Z",
+      "extendedProps": {
+        "calendar": "Family",
+        "description": "family desc"
+      },
+      "id": 4
     },
     {
-      "id": 5,
       "url": "",
-      "title": "Dart Game?",
-      "start": "2023-09-16T19:00:00.000Z",
-      "end": "2023-09-17T19:00:00.000Z",
+      "display": "block",
+      "title": "aassdd",
+      "end": "2023-10-08T11:21:52.000Z",
       "allDay": true,
-      "extendedProps": { "calendar": "ETC" }
+      "start": "2023-10-08T11:21:52.000Z",
+      "extendedProps": {
+        "calendar": "Personal",
+        "description": "aassdd"
+      },
+      "id": 5
     },
     {
-      "id": 6,
       "url": "",
-      "title": "Meditation",
-      "start": "2023-09-16T19:00:00.000Z",
-      "end": "2023-09-17T19:00:00.000Z",
+      "display": "block",
+      "title": "new",
+      "end": "2023-10-17T11:22:28.000Z",
       "allDay": true,
-      "extendedProps": { "calendar": "Personal" }
+      "start": "2023-10-16T11:22:28.000Z",
+      "extendedProps": {
+        "calendar": "Family",
+        "description": "new"
+      },
+      "id": 6
     },
     {
-      "id": 7,
       "url": "",
-      "title": "Dinner",
-      "start": "2023-09-16T19:00:00.000Z",
-      "end": "2023-09-17T19:00:00.000Z",
+      "display": "block",
+      "title": "ssss",
+      "end": "2023-10-12T06:33:57.000Z",
       "allDay": true,
-      "extendedProps": { "calendar": "Family" }
+      "start": "2023-10-12T06:33:57.000Z",
+      "extendedProps": {
+        "calendar": "Personal",
+        "description": "ssss"
+      },
+      "id": 7
     },
     {
-      "id": 8,
       "url": "",
-      "title": "Product Review",
-      "start": "2023-09-16T19:00:00.000Z",
-      "end": "2023-09-17T19:00:00.000Z",
+      "display": "block",
+      "title": "aashura",
+      "end": "2023-10-24T07:18:51.000Z",
       "allDay": true,
-      "extendedProps": { "calendar": "Business" }
+      "start": "2023-10-23T07:18:51.000Z",
+      "extendedProps": {
+        "calendar": "aashura",
+        "description": "aashura"
+      },
+      "id": 8
     },
     {
-      "id": 9,
       "url": "",
-      "title": "Monthly Meeting",
-      "start": "2023-09-30T19:00:00.000Z",
-      "end": "2023-09-30T19:00:00.000Z",
+      "display": "block",
+      "title": "zxczxcxc",
+      "end": "2023-10-05T07:22:01.037Z",
       "allDay": true,
-      "extendedProps": { "calendar": "Business" }
+      "start": "2023-10-05T07:22:01.037Z",
+      "extendedProps": {
+        "calendar": "new",
+        "description": "zxczxcxc"
+      },
+      "id": 9
     },
     {
-      "id": 10,
       "url": "",
-      "title": "Monthly Checkup",
-      "start": "2023-07-31T19:00:00.000Z",
-      "end": "2023-07-31T19:00:00.000Z",
+      "display": "block",
+      "title": "new",
+      "end": "2023-10-22T07:23:26.000Z",
       "allDay": true,
-      "extendedProps": { "calendar": "Personal" }
+      "start": "2023-10-22T07:23:26.000Z",
+      "extendedProps": {
+        "calendar": "new"
+      },
+      "id": 10
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "muharram",
+      "end": "2023-10-05T07:25:54.034Z",
+      "allDay": true,
+      "start": "2023-10-03T07:25:54.000Z",
+      "extendedProps": {
+        "calendar": "aashura",
+        "description": "muharram"
+      },
+      "id": 11
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "new 1",
+      "end": "2023-10-18T07:26:44.000Z",
+      "allDay": true,
+      "start": "2023-10-18T07:26:44.000Z",
+      "extendedProps": {
+        "calendar": "new",
+        "description": "new 1"
+      },
+      "id": 12
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "Personal",
+      "end": "2023-10-05T07:35:13.597Z",
+      "allDay": true,
+      "start": "2023-10-05T07:35:13.597Z",
+      "extendedProps": {
+        "calendar": "Personal"
+      },
+      "id": 13
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "Business",
+      "end": "2023-10-02T07:35:52.000Z",
+      "allDay": true,
+      "start": "2023-10-01T07:35:52.000Z",
+      "extendedProps": {
+        "calendar": "Business"
+      },
+      "id": 14
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "aashura",
+      "end": "2023-10-05T07:36:19.690Z",
+      "allDay": true,
+      "start": "2023-10-05T07:36:19.690Z",
+      "extendedProps": {
+        "calendar": "aashura"
+      },
+      "id": 15
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "Holiday",
+      "end": "2023-10-15T08:23:09.000Z",
+      "allDay": true,
+      "start": "2023-10-15T08:23:09.000Z",
+      "extendedProps": {
+        "calendar": "Holiday"
+      },
+      "id": 16
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "Personal",
+      "end": "2023-10-02T08:26:45.000Z",
+      "allDay": true,
+      "start": "2023-10-02T08:26:45.000Z",
+      "extendedProps": {
+        "calendar": "Personal"
+      },
+      "id": 17
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "new 111",
+      "end": "2023-10-05T08:44:12.998Z",
+      "allDay": true,
+      "start": "2023-10-05T08:44:12.998Z",
+      "extendedProps": {
+        "calendar": "new",
+        "description": "new 111"
+      },
+      "id": 18
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "Business",
+      "end": "2023-10-12T21:56:43.000Z",
+      "allDay": true,
+      "start": "2023-10-12T21:56:43.000Z",
+      "extendedProps": {
+        "calendar": "Business"
+      },
+      "id": 19
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "Personal",
+      "end": "2023-10-06T22:00:07.000Z",
+      "allDay": true,
+      "start": "2023-10-06T22:00:07.000Z",
+      "extendedProps": {
+        "calendar": "Personal"
+      },
+      "id": 20
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "aashura",
+      "end": "2023-10-13T22:17:32.000Z",
+      "allDay": true,
+      "start": "2023-10-13T22:17:32.000Z",
+      "extendedProps": {
+        "calendar": "aashura"
+      },
+      "id": 21
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "Holiday",
+      "end": "2023-10-24T14:07:12.000Z",
+      "allDay": true,
+      "start": "2023-10-24T14:07:12.000Z",
+      "extendedProps": {
+        "calendar": "Holiday"
+      },
+      "id": 22
+    },
+    {
+      "url": "",
+      "display": "block",
+      "title": "Family",
+      "end": "2023-10-01T12:41:53.000Z",
+      "allDay": true,
+      "start": "2023-10-01T12:41:53.000Z",
+      "extendedProps": {
+        "calendar": "Family"
+      },
+      "id": 23
     }
   ],
   "legal_entities": [
@@ -570,7 +898,11 @@
       "state": "adcx",
       "postalCode": "12324",
       "addressLine1": "adfasfa",
-      "addressLine2": "asdfad"
+      "addressLine2": "asdfad",
+      "gender": [
+        "",
+        ""
+      ]
     },
     {
       "id": "le2",
@@ -587,12 +919,220 @@
       "addressLine2": "asdfad"
     }
   ],
+  "workplaces": [
+    {
+      "id": "wp1",
+      "main": true,
+      "name": "Technit (gb)",
+      "country": "AU",
+      "country_label": "United Kingdom",
+      "company_id": "243526",
+      "phone_number": "+447911123456",
+      "state": "",
+      "city": "",
+      "address_line_1": null,
+      "address_line_2": null,
+      "postal_code": null,
+      "latitude": null,
+      "longitude": null,
+      "timezone": "Europe/London",
+      "phoneNumber": "",
+      "addressLine1": "",
+      "addressLine2": "",
+      "postalCode": "",
+      "timeZone": "Eastern Standard Time"
+    },
+    {
+      "id": "wp2",
+      "main": false,
+      "name": "Lahore",
+      "country": "PH",
+      "country_label": "Pakistan",
+      "company_id": "243526",
+      "phone_number": 23456789,
+      "state": "",
+      "city": "",
+      "address_line_1": "lhr",
+      "address_line_2": "lhr",
+      "postal_code": 56789,
+      "latitude": null,
+      "longitude": null,
+      "timezone": "Asia/Karachi",
+      "phoneNumber": "",
+      "address": "dasdasdadasdas",
+      "additionalAddress": "dasdasdasdasdasd",
+      "postalCode": "",
+      "stateProvinceRegion": "pjb",
+      "timeZone": "Paraguay Standard Time",
+      "addressLine1": "",
+      "addressLine2": ""
+    },
+    {
+      "id": "wp3",
+      "main": false,
+      "name": "KARACHI",
+      "country": "AT",
+      "country_label": "Pakistan",
+      "company_id": "243526",
+      "phone_number": 98765432,
+      "state": "Pjb",
+      "city": "lhr",
+      "address_line_1": "address 1",
+      "address_line_2": "addres additional info",
+      "postal_code": "65432",
+      "latitude": null,
+      "longitude": null,
+      "timezone": "Asia/Karachi",
+      "phoneNumber": "9876543",
+      "addressLine1": "daasdasd",
+      "addressLine2": "dsdaDAS"
+    },
+    {
+      "name": "Lahore",
+      "phoneNumber": "345678987",
+      "address": "address 1",
+      "additionalAddress": "address additional",
+      "city": "lhr",
+      "postalCode": "67898",
+      "stateProvinceRegion": "pjb",
+      "country": "AF",
+      "timeZone": "UTC-11",
+      "id": "2VgYT7Z",
+      "state": "punjab",
+      "addressLine1": "address 1 ",
+      "addressLine2": "address 2"
+    },
+    {
+      "name": "hydrabad",
+      "phoneNumber": "0987654321",
+      "address": "hydrabad",
+      "additionalAddress": "hydrabad",
+      "city": "karachi",
+      "postalCode": "89790",
+      "stateProvinceRegion": "sindh",
+      "country": "PK",
+      "timeZone": "Alaskan Standard Time",
+      "id": "QvXCkvV"
+    },
+    {
+      "name": "hdghdfgh",
+      "phoneNumber": "",
+      "address": "",
+      "additionalAddress": "",
+      "city": "",
+      "postalCode": "",
+      "stateProvinceRegion": "",
+      "country": "",
+      "timeZone": "",
+      "id": "Hwmgcme"
+    },
+    {
+      "name": "islamabad",
+      "phoneNumber": "345678908",
+      "addressLine1": "isb",
+      "addressLine2": "isb2",
+      "city": "islamabad",
+      "postalCode": "4567890",
+      "state": "state",
+      "country": "PK",
+      "timeZone": "US Mountain Standard Time",
+      "id": "CpvYevD"
+    },
+    {
+      "name": "new wp",
+      "phoneNumber": "34567890",
+      "addressLine1": "new addess",
+      "addressLine2": "address",
+      "city": "lhr",
+      "postalCode": "4567890",
+      "state": "asdasdasd",
+      "country": "AZ",
+      "timeZone": "Eastern Standard Time",
+      "id": "VLkLwOL"
+    }
+  ],
+  "customFields": [
+    {
+      "title": "text",
+      "isMandatory": true,
+      "fieldType": "text",
+      "selectOptions": [],
+      "id": 1
+    },
+    {
+      "title": "hgjh",
+      "isMandatory": true,
+      "fieldType": "text",
+      "selectOptions": [],
+      "id": 3
+    }
+  ],
+  "genders": [
+    {
+      "id": 456534,
+      "name": "female",
+      "legal_entities": [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 456535,
+      "name": "male"
+    },
+    {
+      "name": "Adminsdasdasda",
+      "legalEntities": [
+        "le2",
+        "le1"
+      ],
+      "id": 456536
+    }
+  ],
+  "absenceTypes": [
+    {
+      "name": "Personal",
+      "color": "#db632e",
+      "description": "updated",
+      "id": 1948185
+    },
+    {
+      "name": "Business",
+      "color": "#56CA00",
+      "description": "updated",
+      "id": 1948185
+    },
+    {
+      "name": "Family",
+      "color": "#ad8472",
+      "description": "updated",
+      "id": 1948185
+    },
+    {
+      "name": "Holiday",
+      "color": "#b9a8e0",
+      "description": "updated",
+      "id": 1948185
+    },
+    {
+      "name": "aashura",
+      "color": "#edd03e",
+      "description": "aaaashyra",
+      "id": 1948186
+    },
+    {
+      "name": "new",
+      "color": "#56CA00",
+      "description": "new",
+      "id": 1948187
+    }
+  ],
   "job_postings": [
     {
       "id": 39361,
       "creationDate": "2023-09-14T06:40:41.000Z",
       "title": "Full Stack Senior",
-      "description": "\u003cp class=\"TextEditorTheme__paragraph\" dir=\"ltr\"\u003e\u003cspan\u003esdasdasdwdawdw d wdwdWDdwa dwd wad wdwdwadwad dwdWDwdW DWDwdwadw WD W WdawdWDAWDAWDWa wdaw wdawd wdwdaw dw d wdsdasdasdwdawdw d wdwdWDdwa dwd wad wdwdwadwad dwdWDwdW DWDwdwadw WD W WdawdWDAWDAWDWa wdaw wdawd wdwdaw dw d wdsdasdasdwdawdw d wdwdWDdwa dwd wad wdwdwadwad dwdWDwdW DWDwdwadw WD W WdawdWDAWDAWDWa wdaw wdawd wdwdaw dw d wdsdasdasdwdawdw d wdwdWDdwa dwd wad wdwdwadwad dwdWDwdW DWDwdwadw WD W WdawdWDAWDAWDWa wdaw wdawd wdwdaw dw d wdsdasdasdwdawdw d wdwdWDdwa dwd wad wdwdwadwad dwdWDwdW DWDwdwadw WD W WdawdWDAWDAWDWa wdaw wdawd wdwdaw dw d wd\u003c/span\u003e\u003c/p\u003e",
+      "description": "<p class=\"TextEditorTheme__paragraph\" dir=\"ltr\"><span>sdasdasdwdawdw d wdwdWDdwa dwd wad wdwdwadwad dwdWDwdW DWDwdwadw WD W WdawdWDAWDAWDWa wdaw wdawd wdwdaw dw d wdsdasdasdwdawdw d wdwdWDdwa dwd wad wdwdwadwad dwdWDwdW DWDwdwadw WD W WdawdWDAWDAWDWa wdaw wdawd wdwdaw dw d wdsdasdasdwdawdw d wdwdWDdwa dwd wad wdwdwadwad dwdWDwdW DWDwdwadw WD W WdawdWDAWDAWDWa wdaw wdawd wdwdaw dw d wdsdasdasdwdawdw d wdwdWDdwa dwd wad wdwdwadwad dwdWDwdW DWDwdwadw WD W WdawdWDAWDAWDWa wdaw wdawd wdwdaw dw d wdsdasdasdwdawdw d wdwdWDdwa dwd wad wdwdwadwad dwdWDwdW DWDwdwadw WD W WdawdWDAWDAWDWa wdaw wdawd wdwdaw dw d wd</span></p>",
       "contractType": "per_hour",
       "workplaceId": "wp1",
       "remote": true,
@@ -622,7 +1162,7 @@
       "creationDate": "2023-09-14T06:54:02.000Z",
       "title": "Marketer E",
       "workplaceId": "wp2",
-      "description": "\u003cp class=\"TextEditorTheme__paragraph\" dir=\"ltr\"\u003e\u003ca href=\"https://./job_posting/39366\" class=\"TextEditorTheme__link\"\u003e\u003cspan\u003ehttps://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366\u003c/span\u003e\u003c/a\u003e\u003cspan\u003e https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366\u003c/span\u003e\u003c/p\u003e",
+      "description": "<p class=\"TextEditorTheme__paragraph\" dir=\"ltr\"><a href=\"https://./job_posting/39366\" class=\"TextEditorTheme__link\"><span>https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366</span></a><span> https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366https://./job_posting/39366</span></p>",
       "contractType": "per_hour",
       "remote": true,
       "workplaceType": "remote",
@@ -647,53 +1187,6 @@
       "genderRequirement": "do_not_ask"
     }
   ],
-  "workplaces": [
-    {
-      "id": "wp1",
-      "main": false,
-      "name": "Lahore",
-      "country": "Pakistan",
-      "country_label": "Pakistan",
-      "company_id": "243526",
-      "phone_number": 23456789,
-      "state": "Punjab",
-      "city": "Lahore",
-      "address_line_1": "lhr",
-      "address_line_2": "lhr",
-      "postal_code": 56789,
-      "latitude": null,
-      "longitude": null,
-      "timezone": "Asia/Karachi",
-      "phoneNumber": "",
-      "address": "dasdasdadasdas",
-      "additionalAddress": "dasdasdasdasdasd",
-      "postalCode": "37000",
-      "stateProvinceRegion": "pjb",
-      "timeZone": "Paraguay Standard Time",
-      "addressLine1": "",
-      "addressLine2": ""
-    },
-    {
-      "id": "wp2",
-      "main": false,
-      "name": "KARACHI",
-      "country": "New pakistan",
-      "country_label": "Pakistan",
-      "company_id": "243526",
-      "phone_number": 98765432,
-      "state": "Sindh",
-      "city": "Karachi",
-      "address_line_1": "address 1",
-      "address_line_2": "addres additional info",
-      "postalCode": "65432",
-      "latitude": null,
-      "longitude": null,
-      "timezone": "Asia/Karachi",
-      "phoneNumber": "9876543",
-      "addressLine1": "daasdasd",
-      "addressLine2": "dsdaDAS"
-    }
-  ],
   "candidates": [
     {
       "id": 1595620,
@@ -710,7 +1203,7 @@
       "qualified": true,
       "disqualified_reason": null,
       "phaseId": 255868,
-      "phaseName": "new",
+      "phaseName": "hired",
       "phaseType": "initial",
       "creationDate": "2023-09-18T07:55:37.000Z",
       "photo": null,
@@ -724,7 +1217,7 @@
       "medium": null,
       "personalUrl": "www.linkdin.com",
       "rating_average": 0,
-      "status": "acitve",
+      "status": "rejected",
       "embedding_score": null,
       "ats_rejection_reason_id": null
     },
@@ -795,70 +1288,33 @@
       "ats_rejection_reason_id": null
     }
   ],
-  "genders": [
+  "workareas": [
     {
-      "id": 456534,
-      "name": "female",
-      "legal_entities": ["", ""]
+      "id": "wa11",
+      "workplaceId": "wp1",
+      "name": "workarea 11",
+      "capacity": 2,
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "description": "sample description workarea11"
     },
     {
-      "id": 456535,
-      "name": "male"
+      "id": "wa21",
+      "workplaceId": "wp2",
+      "name": "workarea 21",
+      "capacity": 2,
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "description": "sample description workarea21"
     },
     {
-      "name": "Adminsdasdasda",
-      "legalEntities": ["le2", "le1"],
-      "id": 456536
-    }
-  ],
-  "customFields": [
-    {
-      "title": "text",
-      "isMandatory": true,
-      "fieldType": "text",
-      "selectOptions": [],
-      "id": 1
-    },
-    {
-      "title": "hgjh",
-      "isMandatory": true,
-      "fieldType": "text",
-      "selectOptions": [],
-      "id": 3
-    }
-  ],
-  "templates":[
-    {
-      "id": 1,
-      "title": "yyy1",
-      "body": "body1"
-    },{
-      "id": 2,
-      "title": "yyy2",
-      "body": "body2"
-    },{
-      "id": 3,
-      "title": "yyy3",
-      "body": "body3"
-    }
-  ],
-"emailtemplates":[
-    {
-      "id": 1,
-"name":"template 1 vercel",
-"subject":"template 1 body vercel",
-      "body": "template 1 body vercel"
-    },{
-      "id": 2,
-"name":"template 2 vercel",
-"subject":"template 2 body vercel",
-      "body": "template 2 body vercel"
-    },{
-      "id": 3,
-"name":"template 3 vercel",
-"subject":"template 3 body vercel",
-      "body": "template 3 body vercel"
+      "id": "wa12",
+      "workplaceId": "wp1",
+      "name": "workarea 12",
+      "capacity": 5,
+      "startTime": "09:00",
+      "endTime": "16:00",
+      "description": "sample description workarea12"
     }
   ]
-
 }
