@@ -1187,6 +1187,40 @@
       "genderRequirement": "do_not_ask"
     }
   ],
+  "space_bookings": [
+    {
+      "id": "sb11",
+      "employeeId": "1",
+      "workareaId": "wa11",
+      "date": "2023-10-26T06:54:02.000Z",
+      "from": "9am",
+      "to": "1pm"
+    },
+    {
+      "id": "sb21",
+      "employeeId": "2",
+      "workareaId": "wa12",
+      "date": "2023-10-26T06:54:02.000Z",
+      "from": "9am",
+      "to": "1pm"
+    },
+    {
+      "id": "sb12",
+      "employeeId": "1",
+      "workareaId": "wa21",
+      "date": "2023-10-26T06:54:02.000Z",
+      "from": "9am",
+      "to": "1pm"
+    },
+    {
+      "id": "sb13",
+      "employeeId": "1",
+      "workareaId": "wa11",
+      "date": "2023-10-26T06:54:02.000Z",
+      "from": "9am",
+      "to": "1pm"
+    }
+  ],
   "candidates": [
     {
       "id": 1595620,
