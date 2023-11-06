@@ -242,28 +242,6 @@
       "trialPeriodEndDate": "",
       "id": "pg95OSo",
       "status": "inactive"
-    },
-    {
-      "firstName": "Faizan",
-      "lastName": "Ahmed",
-      "email": "shahanhm24@gmail.com",
-      "workPlace": "remote",
-      "teamId": "t1",
-      "legalEntity": "technit-ltd",
-      "roleId": "j1",
-      "roleRank": "senior",
-      "invite": true,
-      "salaryAmount": "76",
-      "salaryFrequency": "monthly",
-      "contractEffectiveDate": "2023-09-13T07:00:00.000Z",
-      "contractStartDate": "2023-09-13T07:00:00.000Z",
-      "contractEndDate": "",
-      "workingHours": "",
-      "workingHoursUnit": "",
-      "trialPeriod": "",
-      "trialPeriodEndDate": "",
-      "id": "JwmWdLQ",
-      "status": "inactive"
     }
   ],
   "jobs": [
