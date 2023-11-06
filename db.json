@@ -1351,5 +1351,11 @@
       "description": "sample description workarea12"
     }
   ],
-  "shifts":[]
+  "shifts":[
+    {
+      "id": "e14",
+      "isEmpty": true,
+      "employeeId": "4"
+    }
+  ]
 }
